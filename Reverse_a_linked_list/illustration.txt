@@ -1,0 +1,8 @@
+In reverse_linked_list.cpp:
+
+1 extra singly linked list was used to reverse the singly linked list given.
+
+
+In reverse_linked_list_v2.cpp
+
+No extra singly linked list was used, instead reversed the position of nodes.
