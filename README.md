@@ -1,3 +1,3 @@
 # hacker-rank-solutions
 
-- Only the solution part in each code is mine, The rest of the code was already implemented by hackerrank!
+- Hacker Rank solutions, some of them in #c and some in #c++ or both
